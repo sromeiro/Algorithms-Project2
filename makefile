@@ -8,3 +8,4 @@ main.o: main.cpp
 
 clean:
 	rm -rf *o proj
+	rm -rf output.txt
